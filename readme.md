@@ -5,8 +5,6 @@
 
 O **Ferrorama** é um sistema web para monitoramento de trens, permitindo que os usuários cadastrem, monitorem e gerenciem trens de forma remota e em tempo real.
 
-## Requisito funcional
-  
 
 ## Requisitos Funcionais
 RF 1
